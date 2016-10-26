@@ -5251,8 +5251,6 @@ TS-003</description>
 <text x="149.86" y="43.18" size="1.778" layer="97">ICHOP = (0.2V / RSENSE)</text>
 <text x="71.12" y="127" size="1.778" layer="97">Sleep has internal pulldown</text>
 <text x="71.12" y="124.46" size="1.778" layer="97">(= disabled by default)</text>
-<text x="71.12" y="137.16" size="1.778" layer="97">Add 20K-75K pullup to VMOTOR for default = on?</text>
-<text x="71.12" y="134.62" size="1.778" layer="97">(VMOTOR is safe since internal clamping zener on NSLEEP keeps it below 6.5V)</text>
 </plain>
 <instances>
 <instance part="U$1" gate="G$1" x="0" y="0"/>
